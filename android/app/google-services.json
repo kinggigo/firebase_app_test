@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "255861698408",
+    "project_id": "fmc-test-app",
+    "storage_bucket": "fmc-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255861698408:android:0042ce0f4cea7633abb0dd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_message_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255861698408-u2c1ioj49ahn88h3egh3pe9hino9f2ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEW7z8Ur_DaGplSe12m_612Sry5bKPBco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255861698408-u2c1ioj49ahn88h3egh3pe9hino9f2ut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "255861698408-mtkak3vde3fg7n7hrj4a646plaldv4jq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fmc-test-app.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
